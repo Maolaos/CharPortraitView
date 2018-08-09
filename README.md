@@ -21,3 +21,6 @@ Step 2. Add the dependency
 	        implementation 'com.github.Maolaos:CharPortraitView:v1.0.0'
 	}
 
+
+
+https://www.jianshu.com/p/3855de9e4cc1
